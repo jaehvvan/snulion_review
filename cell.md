@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td style='text-align: center'>구분</td>
+    <td style='font-weight: bold'>구분</td>
     <td>데이터 타입</td>
     <td>설명</td>
   </tr>
