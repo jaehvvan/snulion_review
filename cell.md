@@ -1,5 +1,5 @@
 <table>
-  <tr>
+  <tr style='font-weight: bold'>
     <td style='font-weight: bold'>구분</td>
     <td>데이터 타입</td>
     <td>설명</td>
