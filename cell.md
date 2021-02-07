@@ -31,6 +31,6 @@
   </tr>
   <tr>
     <td colspan="2">객체 타입</td>
-    <td>객체, 함수, </td>
+    <td>객체, 함수, 배열 등</td>
   </tr>
 </table>
